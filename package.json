@@ -1,0 +1,93 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "gulp-css-useref-abs",
+        "scope": null,
+        "escapedName": "gulp-css-useref-abs",
+        "name": "gulp-css-useref-abs",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/user/www/grid-builder"
+    ]
+  ],
+  "_from": "gulp-css-useref-abs@latest",
+  "_id": "gulp-css-useref-abs@0.0.1",
+  "_inCache": true,
+  "_location": "/gulp-css-useref-abs",
+  "_nodeVersion": "7.2.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/gulp-css-useref-abs-0.0.1.tgz_1484837448433_0.599651169963181"
+  },
+  "_npmUser": {
+    "name": "andrey-yartsev",
+    "email": "andrey.yartsev.g@gmail.com"
+  },
+  "_npmVersion": "3.10.9",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "gulp-css-useref-abs",
+    "scope": null,
+    "escapedName": "gulp-css-useref-abs",
+    "name": "gulp-css-useref-abs",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/gulp-css-useref-abs/-/gulp-css-useref-abs-0.0.1.tgz",
+  "_shasum": "e965c24241701202be9b52f4cb9dcd611c6321e6",
+  "_shrinkwrap": null,
+  "_spec": "gulp-css-useref-abs",
+  "_where": "/home/user/www/grid-builder",
+  "author": {
+    "name": "Andrey Yartsev",
+    "email": "andrey.yartsev.g@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/majexa/gulp-css-useref-abs/issues"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "lodash": "^4.6.1",
+    "micromatch": "^2.3.7",
+    "through2": "^2.0.1"
+  },
+  "description": "Gulp plugin to parse CSS references with abs links support",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "e965c24241701202be9b52f4cb9dcd611c6321e6",
+    "tarball": "https://registry.npmjs.org/gulp-css-useref-abs/-/gulp-css-useref-abs-0.0.1.tgz"
+  },
+  "homepage": "https://github.com/majexa/gulp-css-useref-abs#readme",
+  "keywords": [
+    "gulpplugin",
+    "gulp",
+    "css",
+    "fonts",
+    "assets"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "andrey-yartsev",
+      "email": "andrey.yartsev.g@gmail.com"
+    }
+  ],
+  "name": "gulp-css-useref-abs",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majexa/gulp-css-useref-abs.git"
+  },
+  "scripts": {},
+  "version": "0.0.1"
+}
